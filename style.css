@@ -1,4 +1,12 @@
-.card{
+.card-1{
     background-image: url('Images/2.png');
+    background-repeat: no-repeat;
+}
+.card-2{
+    background-image: url('Images/3.png');
+    background-repeat: no-repeat;
+}
+.card-3{
+    background-image: url('Images/4.png');
     background-repeat: no-repeat;
 }
